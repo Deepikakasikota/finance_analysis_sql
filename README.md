@@ -1,5 +1,5 @@
-# Finance and Supply Chain Analysis
-This repository contains code for finance and supply chain analytics. The code is designed to perform various financial and sales analysis tasks. Below are the main components of the code and their functionalities:
+# Finance and Sales Analysis
+This repository contains code for finance and sales analytics. The code is designed to perform various financial and sales analysis tasks. Below are the main components of the code and their functionalities:
 
 ## Finance Analytics
 ### A. Customer Codes for Croma India
@@ -56,7 +56,7 @@ Retrives the top products in the given division by sold quantity.
 
 ## Supply Chain Analytics:
 
-#### Creating fact_act_est Table
+### Creating fact_act_est Table
 
 This part of the code creates a new fact_act_est table, which combines data from the fact_sales_monthly and fact_forecast_monthly tables.
 which helps to findout the following--
@@ -66,7 +66,7 @@ which helps to findout the following--
   - Absolute Error
   - Absolute Error %
   - Forecast Accuracy
-    
+ 
 ### Temporary Tables and Forecast Accuracy Report
 This section demonstrates the use of temporary tables and stored procedures to generate a forecast accuracy report for a given fiscal year.
 
